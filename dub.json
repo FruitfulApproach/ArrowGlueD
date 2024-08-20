@@ -1,0 +1,6 @@
+{
+    "name": "arrowglue",
+    "targetName": "arrowglue",
+    "targetType": "executable",
+    "targetPath": "bin"
+}
